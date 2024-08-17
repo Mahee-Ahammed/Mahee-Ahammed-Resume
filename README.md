@@ -1,5 +1,5 @@
 # Mahee-Ahammed-Resume
 
-live link:
+## Live link
 
-https://mahee-ahammed.github.io/html-portfolio/
+[Live portfolio](https://mahee-ahammed.github.io/html-portfolio/) 
